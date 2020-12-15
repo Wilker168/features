@@ -10,5 +10,5 @@ Funcionalidade: Logar no site através de conta do Faceboook
 Cenário: Realizar login com Facebook
     Dado que tenha conta válida no Facebook
     E tenha acesso ao site do Submarino
-    Quando clicar em | Entrar | , deve-se escolher a opção |Entrar com Facebook|
+    Quando clicar em |Entrar| , deve-se escolher a opção |Entrar com Facebook|
     Então o sistema irá logar com a conta do Facebook
