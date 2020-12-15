@@ -10,7 +10,7 @@ Funcionalidade: Acesar site do mercado Angeloni Super
 Cenário: Adicionar produto ao carrinho
     Dado que seja usuário logado no site
     E em "DEPARTAMENTOS" clicar no primeiro departamento
-    Quando abrir a página de produtos, selecionar o primeiro produto adicionando ao carrinho
+    Quando abrir a página de produtos, selecionar o primeiro produto adicionando-o ao carrinho
     Então será adicionado ao carrinho de compras
     
 
